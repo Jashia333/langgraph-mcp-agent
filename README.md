@@ -17,13 +17,6 @@ This project demonstrates how to build an **agentic chatbot** using [LangGraph](
 - ⚡ Groq API support with LLaMA 3 and Mixtral
 - 🌐 FastAPI server to host callable tools
 
----
-
-## 📁 Project Structure
-
-
-
----
 
 ## 🧩 Prerequisites
 
