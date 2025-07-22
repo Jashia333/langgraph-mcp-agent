@@ -3,7 +3,7 @@ from mcp.server.fastmcp import FastMCP
 weather_server=FastMCP("weather")
 
 @weather_server.tool()
-async def get_weather(a:str)-> str:
+async def get_weather(a:str)->str:
     """
     this gets the weather location
     """
