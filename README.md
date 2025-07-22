@@ -1,7 +1,4 @@
 # langgraph-mcp-agent
-Here's the **full `README.md` content** ready to copy-paste:
-
----
 
 ```markdown
 # 🧠 LangGraph MCP Agent Chatbot (Groq Integration)
